@@ -1,3 +1,8 @@
+# Coleman Petras
+# M03 Lab
+# M03 Collaboration
+# This program is designed to take input from a customer and output the vehicle information based on the inputs in an easy to read format
+
 # Define the Vehicle superclass
 class Vehicle:
     def __init__(self, vehicle_type):
